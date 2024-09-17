@@ -105,3 +105,12 @@ function App() {
     );
 
 ```
+<!-- 
+<InputBox
+    label="from"
+    amount = {amount}
+    onAmountChange = {(amount) => setAmount(amount)}
+    onCurrencyChange = {(currency) => setFrom(currency)}
+    selectCurrency = {from}
+    currencyOptions = {options}
+    /> -->
